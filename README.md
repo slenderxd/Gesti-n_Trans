@@ -4,8 +4,9 @@
 
 > [!IMPORTANT]
 > Para un mejor flujo de trabajo en su computadora les recomiendo que descarguen la powershell de windows,
-  ya que permite interactuar con Git más rápido y así no entrar a esta página todo el tiempo 
-    
+  ya que permite interactuar con Git más rápido y así no entrar a esta página todo el tiempo
+> <img width="639" alt="Captura de pantalla 2024-03-22 125024" src="https://github.com/slenderxd/Gestion_Trans/assets/126352503/8021ffac-5186-4e5e-b77c-a87a436a9b31">
+
 # Pasos para subir el proyecto
     cd [Carpeta_En_La_Que_Guardaremos_Proyecto]
     git clone https://github.com/slenderxd/Gestion_Trans.git //este es la url de este repositorio
