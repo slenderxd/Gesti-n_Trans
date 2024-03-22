@@ -11,7 +11,12 @@ cd \*Carpeta_En_La_Que_Guardaremos_Proyecto*\
 git clone https://github.com/slenderxd/Gestion_Trans.git //este es la url de este repositorio
 
 # Actualizar proyecto
-    git pull 
+    git pull
+
+# Status del repositorio
+    git status
 
 # Subir un cambio a rama principal
+    git commit (esto abrirá la opción de subir y editar cambios)
     git push
+
