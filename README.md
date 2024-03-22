@@ -12,3 +12,6 @@ git clone https://github.com/slenderxd/Gestion_Trans.git //este es la url de est
 
 # Actualizar proyecto
     git pull 
+
+# Subir un cambio a rama principal
+    git push
