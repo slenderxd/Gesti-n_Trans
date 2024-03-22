@@ -17,6 +17,9 @@ git clone https://github.com/slenderxd/Gestion_Trans.git //este es la url de est
     git status
 
 # Subir un cambio a rama principal
+    git add * (actualizar todos los cambios)
+    git add [filas específicas]
+
     git commit (esto abrirá la opción de subir y editar cambios)
     git push
 
